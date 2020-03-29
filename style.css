@@ -87,7 +87,8 @@ body > #introduct {
 	font-size: 14px;
 	border: 2px solid white;
 	border-radius: 5px;
-	padding: 17px 30px;
+	padding: 0px 30px;
+	line-height: 44px;
 	text-transform: uppercase;
 	margin-right: 11px;
 	transition: background 0.6s;
