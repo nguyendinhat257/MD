@@ -693,6 +693,7 @@ inset 0 0 25px #b6dbfc;
 	margin-left: 30px;
 }
 #stay > div > #content > div > form > textarea {
+	border: none;
 	width: 495px;
 	height: 160px;
 	background-color: #eaeef1;
