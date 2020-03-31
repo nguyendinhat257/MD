@@ -497,10 +497,7 @@ body > #team {
 	padding-bottom: 10px;
 
 }
-#what_we_do > div > ul > li:hover {
-	box-shadow: inset 0px 0px 5px #0a87f5, 0px 0px 15px #85c3fa,
-inset 0 0 25px #b6dbfc;
-}
+
 #what_we_do > div > ul > li > img {
 	margin-bottom: 35px;
 	cursor: pointer;
@@ -693,7 +690,6 @@ inset 0 0 25px #b6dbfc;
 	margin-left: 30px;
 }
 #stay > div > #content > div > form > textarea {
-	
 	border: none;
 	width: 495px;
 	height: 160px;
@@ -748,17 +744,17 @@ footer > div > ul > li > a {
 	background-image: url(image/icon_footer/icon_footer.png);
 	background-position: 17px 15px;
 	background-repeat: no-repeat;
-	width: 19px;
-	height: 19px;
+	width: 15px;
+	height: 15px;
 	padding: 15px;
 	margin-top: 22px;
 	box-sizing: content-box;
-	border: 2px solid #23b7a4;
+	border: 2px solid #3a454d;
 	border-radius: 50%;
-	box-shadow: inset 0px 0px 8px #23b7a4;
+
 }
 footer > div > ul > li:nth-child(2) > a {
-	background-position: -16px 15px;
+	background-position: -18px 15px;
 }
 footer > div > ul > li:nth-child(3) > a {
 	background-position: -50px 15px;
@@ -778,5 +774,5 @@ footer > div > ul > li > a:hover {
   25%  {border-color: yellow; box-shadow: inset 0px 0px 8px yellow;}
   50%  {border-color: blue; box-shadow: inset 0px 0px 8px blue;}
   75% {border-color: green; box-shadow: inset 0px 0px 8px green;}
-  100% {border-color: #23b7a4; box-shadow: inset 0px 0px 8px #23b7a4; }
+  100% {border-color: #3a454d; box-shadow: inset 0px 0px 8px #3a454d; }
 }
